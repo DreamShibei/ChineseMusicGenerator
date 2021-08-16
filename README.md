@@ -10,3 +10,5 @@ Detailed illustration can be referred to on the links below.<br/>
 https://blog.csdn.net/weixin_45835716/article/details/119476490?spm=1001.2014.3001.5502https://home.firefoxchina.cn <br/>
 * Music generator for four kinds of instrument and four kinds of emotion: <br/>
 https://blog.csdn.net/lzheng012019/article/details/119389570
+* Some operations for midi to wav: <br/>
+https://blog.csdn.net/Dream_Poem/article/details/119724642
